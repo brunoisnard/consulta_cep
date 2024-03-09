@@ -12,3 +12,6 @@ Clone o repositório em sua máquina local.
 Abra o arquivo index.html em seu navegador.
 Insira um CEP no campo de entrada e clique no botão "Buscar" para ver o endereço correspondente.
 Use o botão "Imprimir Pesquisa" para imprimir os resultados, se desejar.
+
+Link para site no VERCEL: 
+https://consulta-cep-murex-two.vercel.app/
