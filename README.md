@@ -16,6 +16,6 @@ Use o botão "Imprimir Pesquisa" para imprimir os resultados, se desejar.
 Link para site no VERCEL: 
 https://consulta-cep-murex-two.vercel.app/
 
-![Land page]([URL_da_imagem](https://drive.google.com/file/d/1FpJgv-MSE45iVflghLYCy8bZCHbr-Dqn/view?usp=sharing)https://drive.google.com/file/d/1FpJgv-MSE45iVflghLYCy8bZCHbr-Dqn/view?usp=sharing)
+![Land page]([URL_da_imagem](https://drive.google.com/file/d/1FpJgv-MSE45iVflghLYCy8bZCHbr-Dqn/view)
 
 
